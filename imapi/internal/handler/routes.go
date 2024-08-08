@@ -2,9 +2,8 @@
 package handler
 
 import (
+	"github.com/zhoushuguang/zeroim/imapi/internal/svc"
 	"net/http"
-
-	"zeroim/imapi/internal/svc"
 
 	"github.com/zeromicro/go-zero/rest"
 )
